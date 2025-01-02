@@ -7,7 +7,7 @@ This Python script automates the dance mechanism in League of Legends by pressin
 1. **Clone or Download the Repository**:
    - You can clone the repository using Git:
      ```bash
-     git clone https://github.com/your-username/dance-macro.git
+     git clone https://github.com/rootshx/spamdance.git
      ```
 
    - Or you can download the ZIP file from GitHub and extract it.
